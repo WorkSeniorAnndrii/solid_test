@@ -1,7 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 
-
 /// Displays the main screen [HomePage] with a tap-to-change-color feature.
 class HomePage extends StatefulWidget {
   /// Initializes the widget with an optional key.
